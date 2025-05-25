@@ -4,7 +4,7 @@ This project is a small REST API built with Java and Spring Boot that manages a 
 
 My goal in writing this software was to gain hands-on experience using Java in a real-world web application setting. It helped me practice building a simple backend system using best practices such as separating models, services, and controllers.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/7d1ffa2d29ff4da6abf35177f599c3f8?sid=733e0306-53ef-40fe-b4c1-c0dad1ed4ece)
 
 # Development Environment
 
